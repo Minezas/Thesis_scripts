@@ -1,7 +1,6 @@
-% Calcula da distancia total percorrida e velocidade média
-% Unidade de calculo = pixel
+% Calculation unit = pixel
 
-% NOTA: os ficheiros de dados não podem conter headers!!
+% NOTE: data files cannot contain headers!!
 
 clear all
 
@@ -12,7 +11,7 @@ resol = 15; % frames por segundo
 	    data = load(file_name);
             data_length = length(data);
     
-% Calculos            
+% Calculations          
     diff_xy = diff(data).^2;
     diff_xy_sum = sum(diff(data).^2,2);
     sequentialDistances = sqrt(sum(diff(data).^2,2));
