@@ -35,7 +35,7 @@ def read_coordinates_from_file(file_path):
     return inner_coordinates
 
 # Specify the file 
-file_path = 'tracking'
+file_path = 'tracking.txt'
 
 # Read the coordinates using the provided function
 coordinates = read_coordinates_from_file(file_path)
