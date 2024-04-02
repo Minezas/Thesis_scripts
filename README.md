@@ -47,8 +47,10 @@ Contributions are welcome! If you have suggestions for improvements or encounter
 
 This project is maintained by Minezas (Gonçalo Araújo). If you encounter any problems or have any questions, please feel free to contact me by goncaloaraujo1070@gmail.com
 
-**Bibliography**
+### Bibliography
 
--Aguiar, P., L. Mendonca and V. Galhardo (2007). "OpenControl: a free opensource software for video tracking and automated control of behavioral mazes." J Neurosci Methods 166(1): 66-72.
--Lopes, G., N. Bonacchi, J. Frazao, J. P. Neto, B. V. Atallah, S. Soares, L. Moreira, S. Matias, P. M. Itskov, P. A. Correia, R. E. Medina, L. Calcaterra, E. Dreosti, J. J. Paton and A. R. Kampff (2015). "Bonsai: an event-based framework for processing and controlling data streams." Front Neuroinform 9: 7
+- Aguiar, P., L. Mendonca, & V. Galhardo. (2007). "OpenControl: a free opensource software for video tracking and automated control of behavioral mazes." *J Neurosci Methods, 166*(1), 66-72.
+  
+- Lopes, G., N. Bonacchi, J. Frazao, J. P. Neto, B. V. Atallah, S. Soares, L. Moreira, S. Matias, P. M. Itskov, P. A. Correia, R. E. Medina, L. Calcaterra, E. Dreosti, J. J. Paton, & A. R. Kampff. (2015). "Bonsai: an event-based framework for processing and controlling data streams." *Front Neuroinform, 9*, 7.
+
 
